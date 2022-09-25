@@ -47,3 +47,29 @@ std::cout << "Value of b: " << b << '\n';
 return 0;
 }
 */
+
+
+//Soln 3: 2 Variable Method
+/*
+#include <iostream>
+using namespace std;
+int main() 
+{
+    int a, b;
+    cout << "Enter Two Integers\n";
+    cin >> a >> b;
+     
+    cout << "Before Swapping\n";
+    cout << "a = " << a << "\nb = " << b << endl;
+     
+    // Swap two numbers
+    a = a + b;
+    b = a - b;
+    a = a - b;
+    
+    //Final Step
+    cout << "After Swapping\n";
+    cout << "a = " << a << "\nb = " << b;
+    return 0;
+}
+*/
