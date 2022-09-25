@@ -1,0 +1,151 @@
+C++ PROGRAMMING EXERCISE
+
+BASIC PROGRAMS
+C++ Program to Print “Hello, World!”.
+C++ Program to Add Two Integers.
+C++ Program to Swap Values of Two Variables.
+C++ Program to Multiply two Floating Point Numbers.
+C++ Program to perform all arithmetic operations.
+C++ Program to convert feet to meters.
+C++ Program to convert celcius to farenheit.
+C++ Program to convert farenheit to celcius.
+C++ Program to find the Size of data types.
+C++ Program to Print ASCII Value.
+C++ Program to Calculate Area of Circle.
+C++ Program to Calculate Area of Square.
+C++ Program to Calculate Area of Rectangle.
+C++ Program to convert days to years, weeks and days.
+
+
+PROGRAMS WITH STRINGS
+Write C++ program to concatenate two strings
+Write C++ program to find string length
+Write C++ program to convert a string to Lowercase
+Write C++ program to convert a string to Upper case
+Write C++ program to change string to upper case without strupr
+Write C++ program to change string to lower case without strlwr
+Write C++ program to reverse a string enter by user
+Write C++ program to count number of alphabets, digits and special characters in string
+Write C++ program to compare two strings using strcmp
+
+
+PROGRAMS WITH CONDITIONS
+C++ Program to check whether an integer entered by the user is odd or even
+C++ Program to find the largest number among three numbers.
+C++ Program to Find the Largest Number using Conditional Operator.
+C++ Program to find the Largest among Three Variables using Nested if.
+C++ program to check leap year using conditional Operator.
+C++ program to check alphabets using conditional operators.
+C++ program to check if a number is positive, negative or zero.
+C++ program to check uppercase or lowercase alphabets.
+C++ program to check entered character vowels or consonants.
+C++ program to check whether a character is an alphabet, digit or special character.
+C++ program to print day name of week.
+C++ program to accept two integers and check whether they are equal or not.
+C++ program to determine a candidate’s age is eligible for casting the vote or not.
+C++ program to find the eligibility of admission for an engineering course based on the criteria.
+C++ program to calculate the total marks, percentage and division of students.
+C++ program to enter month number and print number of days in month.
+C++ program to count total number of notes in entered amount.
+C++ program to check whether a triangle can be formed by the given value for the angles.
+
+
+PROGRAMS WITH LOOPS
+Write C++ program to print alphabets from a to z
+Write C++ program to print ASCII values of all characters
+Write C++ program to print multiplication table of a given number
+Write C++ program to print all natural numbers in reverse order
+Write C++ program to print sum of digits enter by user
+Write C++ program to find sum of even numbers between 1 to n
+Write C++ program to find sum of odd numbers between 1 to n
+Write C++ program to swap first and last digit of a number
+Write C++ program to find the sum of first and last digit of any number
+Write C++ program to find first and last digit of any number
+Write C++ program to calculate product of digits of a number
+Write C++ program to reverse a number using while & for loop
+Write C++ program to calculate power using while & for loop
+Write C++ program to find factorial of any number
+Write C++ program to check whether a number is Armstrong number or not
+Write C++ program to find Armstrong numbers between 1 to n
+Write a C++ program to calculate compound Interest
+Write a C++ program to check a enter number is Prime number or not using while & for loop
+Write a C++ program to check whether a number is palindrome or not
+Write C++ program to print number in words
+Write C++ program to find HCF of two numbers
+Write C++ program to find LCM of two numbers
+
+
+PROGRAMS WITH SWITCH CASE
+Write C++ program to print number of days in a month using switch case
+Write C++ program to print day of week name using switch case
+Write C++ program to create calculator using switch Statement
+Write C++ program to check even or odd number using switch case
+Write C++ program to check vowel or consonant using switch case
+Write C++ program to print gender (Male/Female) programs according to given M/F.
+Write C++ Program to find the maximum number using the switch case.
+
+
+FUNCTION AND RECURSION PROGRAMS:
+Write C++ program to check even or odd using functions
+Write C++ to check prime and armstrong numbers using function
+Write C++ program to find cube of a number using function
+Write C++ Program to convert binary number to decimal
+Write C++ Program to convert decimal number to binary using function
+Write C++ program to find Length of the String by passing String/Character
+Write C++ program to print all strong numbers between 2 numbers
+Write C++ program to find prime numbers in given range using functions
+Write C++ program to find diameter, circumference and area of circle using function
+Write C++ program to print perfect numbers between given interval using function
+Write C++ program to find power of a number using recursion
+Write C++ program to find sum of natural numbers in given range using recursion
+Write C++ program to print even or odd numbers in given range using recursion
+Write C++ program to find reverse of a number using recursion
+Write C++ program to find LCM of two numbers using recursion
+Write C++ program to find HCF of two numbers using recursion
+Write C++ program to print elements of array using recursion
+Write C++ program to find sum of array elements using recursion
+Write C++ program to generate nth fibonacci term using recursion
+Write C++ program to find factorial of a number using recursion
+Write C++ program to check palindrome number using recursion
+Write C++ program to find maximum and minimum elements in array using recursion
+
+
+PROGRAMS WITH POINTERS:
+Write C++ program to swap two numbers using pointers
+Write C++ program to add two numbers using pointers
+Write C++ program to Sum of Array Elements using Pointers
+Write C++ program to find length of string using pointer
+Write C++ program to copy one string to another string using pointer
+Write C++ program to concatenate two strings using pointer
+Write C++ program to print the elements of the array in reverse order using a pointer
+
+
+PROGRAMS WITH ARRAYS:
+Write a C++ program to print all negative elements in an array
+Write C++ program to count total number of negative elements in array
+Write C++ program to read and print elements of array
+Write C++ program to find sum of all elements of an array
+Write C++ program to count even and odd elements in an array
+Write C++ program to find maximum and minimum element in array
+Write C++ program to insert an element in array
+Write C++ program to print all unique element in an array
+Write C++ program to sort an array in ascending order
+Write C++ program to copy all elements of one array to another
+Write C++ program to count number of each element in an array
+Write C++ program to delete all duplicate elements from an array
+Write C++ program count total duplicate elements in an array
+Write C++ program to merge two sorted array
+Write C++ program to put even and odd elements of array in two separate array
+Write C++ program to find reverse of an array
+Write C++ program to left rotate an array
+Write C++ program to right rotate an array
+
+
+MATRIX PROGRAMS
+Write C++ Program to Add Two Matrices
+Write C++ Program to Multiply Two Matrices
+Write C++ Program to check whether two matrices are equal or not
+Write C++ Program to Find the Transpose of a given Matrix
+Write C++ Program to Find sum of each row and columns of a matrix
+Write C++ Program to Find the Frequency of Odd & Even Numbers in the given Matrix
+Write C++ Program C program to interchange diagonals of a matrix
